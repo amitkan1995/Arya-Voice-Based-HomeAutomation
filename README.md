@@ -1,5 +1,5 @@
 # Arya-Voice-Based-HomeAutomation
-A smart and affortable voice based home automation system using Arduino and Android to control electrical appliances.With the help of bluetooth technology this complete system is developed.
+A smart and affordable voice based home automation system using Arduino and Android to control electrical appliances.With the help of Bluetooth technology this complete system is developed.
 
 Technology Used:
 ♦ Arduino Uno
